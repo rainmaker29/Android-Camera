@@ -1,0 +1,3 @@
+title=Camera demo
+author=amaan
+orientation=portrait
